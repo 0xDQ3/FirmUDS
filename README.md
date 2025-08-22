@@ -18,7 +18,7 @@ This tool is an automated reverse engineering script based on Ghidra, specifical
 
 First, install the Ghidrathon plugin to support Python scripts:
 
-1. Download Ghidrathon plugin: https://github.com/justfoxing/ghidrathon
+1. Download Ghidrathon plugin: [https://github.com/justfoxing/ghidrathon](https://github.com/mandiant/Ghidrathon)
 2. Install the plugin to Ghidra's Extensions directory
 3. Restart Ghidra and confirm Python environment is available
 
